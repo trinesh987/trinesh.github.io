@@ -1,5 +1,8 @@
+
 ---
 layout: home
+title: "Welcome"
+hide_title: true
 ---
 
 I’m Trinesh, a data engineer.  
